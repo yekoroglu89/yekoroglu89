@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yunus Emre Köroğlu. I'm a Computer Engineer</h1>
+<h2 align="center">Hi 👋, I'm Yunus Emre Köroğlu. I'm a Computer Engineer</h2>
 <p>- :telescope: I’m currently working on Data Analyses
 <p>- :seedling: I’m currently learning Data Analyses tools
 <p>- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
